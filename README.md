@@ -8,7 +8,7 @@ Gleichzeitig passiert es, dass lokale Bauunternehmen, Baustoffe, ungenutzt einla
 eingekauft haben, als sie aktuell benötigen. Gründe dafür könnten z.B. Fehlkalkulation sein, oder der Gedanke,
 beim Einkauf Skaleneffekte zu nutzen.
 Wir haben also drei Parteien:
-• Unternehmen, die auf einem knappen Markt dringend nach Baustoffen suchen
-• Unternehmen, die Baustoffe ungenutzt einlagern
-• Wir, die wir die Probleme dieser Unternehmen lösen möchten und dabei ein profitables Geschäftsmodell
+- Unternehmen, die auf einem knappen Markt dringend nach Baustoffen suchen
+- Unternehmen, die Baustoffe ungenutzt einlagern
+- Wir, die wir die Probleme dieser Unternehmen lösen möchten und dabei ein profitables Geschäftsmodell
 generieren möchten.
