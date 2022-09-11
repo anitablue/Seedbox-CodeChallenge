@@ -72,4 +72,4 @@ Login als die Produzenten/Lieferanten:
   -	Password: test
 
 Foundation template:
-- bezkoder/vue-3-authentication-jwt
+- [bezkoder/vue-3-authentication-jwt](https://github.com/bezkoder/vue-3-authentication-jwt)
