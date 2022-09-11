@@ -14,15 +14,19 @@ Wir haben also drei Parteien:
 generieren möchten.
 
 Meine Idee ist, eine Lösung zu entwickeln, die wie Amazon Baustoffe für seine Kunden anbietet.
-Es gibt drei Parteien: 
+## Es gibt drei Parteien: 
 -	die Plattform Buildzon - den Anbieter, 
 -	die Produzenten/Lieferanten, 
 -	die Käufer/Konsumenten
-Die Applikation besteht aus:
+
+
+## Die Applikation besteht aus:
 -	Hauptseite, die öffentliche Inhalte und eine Navigationsleiste anzeigt. Der Nutzer hat die Möglichkeit, sich als neuer Nutzer zu registrieren und später einzuloggen. Meine Lösung bietet (noch) keine Registrierungsmöglichkeit, da die Benutzer simuliert werden. 
 -	Lieferanten haben die Möglichkeit, ihre eigenen Produkte einzusehen. Das Lieferanten-Board ermöglicht es dem Benutzer, seine eigenen Produkte zu filtern,  zu sortieren und ein neues Produkt erstellen. Die Google-Kartenoption, die die Verteilung von Produkten auf der Karte anzeigt, dient nur zu Visualisierung und ist nicht fertig implementiert. 
 -	Kunden haben eine Kundenboard-Option, mit der sie alle verfügbaren Produkte anzeigen können. Produkte können gefiltert und sortiert werden Die Option zum Warenkorb hinzufügen ist nicht implementiert, wird aber auf dem Lieferanten-Board angeboten.
-Die Seite für Lieferanten und Käufer zeigt folgende Informationen zum Produkt:
+
+
+## Die Seite für Lieferanten und Käufer zeigt folgende Informationen zum Produkt:
 -	Name
 -	Name der Firma
 -	Ort
@@ -30,29 +34,40 @@ Die Seite für Lieferanten und Käufer zeigt folgende Informationen zum Produkt:
 -	Maßeinheit 
 -	Stückpreis 
 -	Menge auf Lager
-Technologie:
-Für die Implementierung der Feature habe ich folgende Komponenten realisiert:
+
+
+## Technologie:
+## Für die Implementierung der Feature habe ich folgende Komponenten realisiert:
+
 -	Table grid component mit Technologie Kendo Grid
 -	Form component mit Technologie Yup und Vee-validate
 -	CSS template mit Bootstrap
 -	Client side routing mit Vue-router
 -	Api services mit axios
 -	State managment mit Vuex
-Um die Applikation zu testen sind folgende Schritte notwendig:
--	ecommerce-app: 
+
+
+## Um die Applikation zu testen sind folgende Schritte notwendig:
+
+##	ecommerce-app: 
   -	Project setup - npm install
   -	Compiles and hot-reloads for development - npm run serve
   -	Compiles and minifies for production - npm run build
   -	Lints and fixes files- npm run lint
--	api:
+
+
+##	api:
   -	Project setup - npm install
   -	Start API - npm start
 
-Zugangsdaten sind beispielsweise:
--	Login als die Käufer/Konsumenten: 
+##Zugangsdaten sind beispielsweise:
+
+##	Login als die Käufer/Konsumenten: 
   -	Username: tsmith
   -	Password: test
--	Login als die Produzenten/Lieferanten: 
+
+
+##	Login als die Produzenten/Lieferanten: 
   -	Username: americainc
   -	Password: test
 
