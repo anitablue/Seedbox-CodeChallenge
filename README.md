@@ -13,7 +13,7 @@ Wir haben also drei Parteien:
 - Wir, die wir die Probleme dieser Unternehmen lösen möchten und dabei ein profitables Geschäftsmodell
 generieren möchten.
 
-# app
+# ecommerce-app
 
 ## Project setup
 ```
@@ -34,6 +34,16 @@ npm run build
 ```
 npm run lint
 ```
+
+# api
+
+## Project setup
+```
+npm install
+
+### Start server 
+```
+npm start
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
