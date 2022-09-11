@@ -71,3 +71,5 @@ Login als die Produzenten/Lieferanten:
   -	Username: americainc
   -	Password: test
 
+Foundation template:
+- bezkoder/vue-3-authentication-jwt
