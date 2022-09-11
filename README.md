@@ -12,3 +12,28 @@ Wir haben also drei Parteien:
 - Unternehmen, die Baustoffe ungenutzt einlagern
 - Wir, die wir die Probleme dieser Unternehmen lösen möchten und dabei ein profitables Geschäftsmodell
 generieren möchten.
+
+# app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
