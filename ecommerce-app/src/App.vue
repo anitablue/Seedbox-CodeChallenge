@@ -14,8 +14,11 @@
         <li v-if="isSupplier" class="nav-item">
           <router-link to="/supplier" class="nav-link">Supplier Board</router-link>
         </li>
-        <li class="nav-item">
-          <router-link v-if="currentUser" to="" class="nav-link">User profile</router-link>
+        <li v-if="currentUser" class="nav-item">
+          <router-link  to="" class="nav-link">User profile</router-link>
+        </li>
+        <li v-if="isCustomer" class="nav-item">
+          <router-link to="" class="nav-link">Shooping cart</router-link>
         </li>
       </div>
 

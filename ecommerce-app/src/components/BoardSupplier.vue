@@ -28,7 +28,7 @@ export default {
     },
     computed:{
         currentUser() {
-            return this.$store.state.auth.user;
+            return this.$store.state.auth.user.data;
         },
     },
     mounted() {
@@ -40,7 +40,7 @@ export default {
             .then(response => {
                         console.log('product', response.data);
                         console.log('supplier',  this.currentUser.name);
-                        this.products = response.data.filter(p => p.companyName == this.currentUser.data.name);
+                        this.products = response.data.filter(p => p.companyName == this.currentUser.name);
                     })
                     .catch(e => {
                         console.log(e);
