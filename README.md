@@ -37,7 +37,7 @@ Meine Idee ist, eine Lösung zu entwickeln, die wie Amazon Baustoffe für seine 
 
 
 ## Technologie:
-## Für die Implementierung der Feature habe ich folgende Komponenten realisiert:
+Für die Implementierung der Feature habe ich folgende Komponenten realisiert:
 
 -	Table grid component mit Technologie Kendo Grid
 -	Form component mit Technologie Yup und Vee-validate
@@ -49,25 +49,25 @@ Meine Idee ist, eine Lösung zu entwickeln, die wie Amazon Baustoffe für seine 
 
 ## Um die Applikation zu testen sind folgende Schritte notwendig:
 
-##	ecommerce-app: 
+ecommerce-app: 
   -	Project setup - npm install
   -	Compiles and hot-reloads for development - npm run serve
   -	Compiles and minifies for production - npm run build
   -	Lints and fixes files- npm run lint
 
 
-##	api:
+api:
   -	Project setup - npm install
   -	Start API - npm start
 
-##Zugangsdaten sind beispielsweise:
+## Zugangsdaten sind beispielsweise:
 
-##	Login als die Käufer/Konsumenten: 
+Login als die Käufer/Konsumenten: 
   -	Username: tsmith
   -	Password: test
 
 
-##	Login als die Produzenten/Lieferanten: 
+Login als die Produzenten/Lieferanten: 
   -	Username: americainc
   -	Password: test
 
