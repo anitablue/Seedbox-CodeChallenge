@@ -37,14 +37,15 @@ npm run lint
 
 # api
 
-## Project setup
+### Project setup
 ```
 npm install
+```
 
 ### Start server
 ```
-npm start
-```
+npm start 
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
