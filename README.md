@@ -41,7 +41,7 @@ npm run lint
 ```
 npm install
 
-### Start server 
+### Start server
 ```
 npm start
 ```
