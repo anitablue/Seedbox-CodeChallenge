@@ -1,0 +1,67 @@
+{
+  "name": "ecommerce-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/vue-fontawesome": "^3.0.0-5",
+    "@progress/kendo-data-query": "^1.6.0",
+    "@progress/kendo-drawing": "^1.17.1",
+    "@progress/kendo-licensing": "^1.2.2",
+    "@progress/kendo-theme-default": "^5.7.0",
+    "@progress/kendo-vue-animation": "^3.5.4",
+    "@progress/kendo-vue-data-tools": "^3.5.4",
+    "@progress/kendo-vue-dateinputs": "^3.5.4",
+    "@progress/kendo-vue-dropdowns": "^3.5.4",
+    "@progress/kendo-vue-grid": "^3.5.4",
+    "@progress/kendo-vue-indicators": "^3.5.4",
+    "@progress/kendo-vue-inputs": "^3.5.4",
+    "@progress/kendo-vue-intl": "^3.5.4",
+    "@progress/kendo-vue-popup": "^3.5.4",
+    "axios": "^0.27.2",
+    "bootstrap": "^4.6.2",
+    "core-js": "^3.6.5",
+    "jquery": "^3.6.1",
+    "popper.js": "^1.16.1",
+    "vee-validate": "^4.6.7",
+    "vue": "^3.0.0",
+    "vue-router": "^4.1.5",
+    "vuejs-smart-table": "^1.0.0-beta.6",
+    "vuex": "^4.0.2",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.13",
+    "@vue/cli-plugin-eslint": "~4.5.13",
+    "@vue/cli-service": "~4.5.13",
+    "@vue/compiler-sfc": "^3.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^7.0.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
