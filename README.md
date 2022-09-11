@@ -43,7 +43,7 @@ Für die Implementierung der Feature habe ich folgende Komponenten realisiert:
 -	Form component mit Technologie Yup und Vee-validate
 -	CSS template mit Bootstrap
 -	Client side routing mit Vue-router
--	Api services mit axios
+-	Api services mit Axios
 -	State managment mit Vuex
 
 
